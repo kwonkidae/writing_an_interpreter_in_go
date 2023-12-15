@@ -1,3 +1,3 @@
-module writing_an_interpreter_in_go
+module monkey
 
 go 1.21.4
